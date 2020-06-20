@@ -1,0 +1,114 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1517504",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "3097699",
+      "name": "左箭头",
+      "font_class": "mjiantou-copy",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "4088603",
+      "name": "拍照",
+      "font_class": "paizhao",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "4186849",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "6294519",
+      "name": "左右箭头",
+      "font_class": "zuoyoujiantou",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "8099971",
+      "name": "左右箭头",
+      "font_class": "left-arrow",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "9570933",
+      "name": "左箭头",
+      "font_class": "iconfontjiantouzuo",
+      "unicode": "e515",
+      "unicode_decimal": 58645
+    },
+    {
+      "icon_id": "10192057",
+      "name": "下标",
+      "font_class": "xiabiao",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "10650966",
+      "name": "左箭头",
+      "font_class": "arrow-left-copy-copy-copy",
+      "unicode": "e502",
+      "unicode_decimal": 58626
+    },
+    {
+      "icon_id": "11247146",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "11431266",
+      "name": "左右箭头",
+      "font_class": "zuoyoujiantou1",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "12982736",
+      "name": "左右箭头",
+      "font_class": "left-arrow1",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "13864182",
+      "name": "左箭头",
+      "font_class": "icon-copy",
+      "unicode": "e504",
+      "unicode_decimal": 58628
+    },
+    {
+      "icon_id": "14620272",
+      "name": "左箭头",
+      "font_class": "jiantou-copy-copy",
+      "unicode": "e505",
+      "unicode_decimal": 58629
+    },
+    {
+      "icon_id": "15166229",
+      "name": "下标",
+      "font_class": "xiabiao1",
+      "unicode": "e506",
+      "unicode_decimal": 58630
+    }
+  ]
+}
